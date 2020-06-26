@@ -12,7 +12,7 @@
 </head>
 
 <div  class="img1">
-    <a href="../ver/index.php">
+    <a href="../ver/index.html">
 <img src="../img/logo.jpeg" alt="CO2BON">
 </a>
 
