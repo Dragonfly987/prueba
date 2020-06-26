@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: whitesmoke;
+    background-size: auto;
+    
+}
+
+ .form_vender{
+    width:35vw;
+    padding-top: 2%;
+    padding: 3%;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    font-family: 'cursive';
+    color: rgb(24, 22, 37);
+    border-radius: 3%;
+    box-shadow: 7px 13px 37px #000;
+ }
+ @media (max-width: 850px) {
+    .form-vender{
+        width: 80vw;
+        
+     }
+    }
+ .form_vender h1{
+    margin-bottom:20px ;
+    font-size: 200%;
+    
+    text-align: center;
+    
+} 
+
+
+     
+  
+ .form_vender a{
+    color: #000000;
+    text-decoration: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+
+} 
+ 
+.form_vender a :hover{
+color:#1b242e;
+text-decoration: none;
+
+}
+ .form_vender .botons{
+    width: 100%;
+    background-color: rgba(47, 79, 79, 0);
+    border: none;
+    
+    color: rgb(0, 0, 0);
+    
+    font-size: 16px;
+}    
+.form_vender .botons1{
+    width: 100%;
+    background-color: rgba(47, 79, 79, 0);
+    border: none;
+   
+    color: rgb(0, 0, 0);
+   
+    font-size: 16px;
+} 
+ nav a{
+    width: 100%;
+    background-color: rgb(24, 158, 236);
+    display: inline-block;
+    border-radius: 10px;
+    margin: 1%;
+    color: rgb(7, 7, 7);
+    text-decoration: none;
+    padding: 10px 20px;
+    line-height: normal;
+    font-size: 16px;
+    font-weight: bold;
+    -webkit-transition: all 500ms ease;
+    -o-transition: all 500ms ease;
+    transition: all 500ms ease;
+}
+ nav a:hover{
+    background: rgb(17, 108, 161);
+   
+}
+
+img{
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+	margin-top: 25px;
+    box-shadow:rgb(13, 35, 61) 5px 3px 3px 3px ;
+	
+}
+.img1{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	
+	
+}
